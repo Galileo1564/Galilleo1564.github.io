@@ -1,1 +1,2 @@
-Hier entsteht gerade eine Webseite zu meinem Lieblingscharakter!
+# Galileo Galilei
+Galileo Galilei war ein italienischer Universalgelehrter. Er war Philosoph, Mathematiker, Ingenieur, Physiker, Astronom und Kosmologe. Viele seiner Entdeckungen, vor Allem in der Mechanik und der Astronomie, gelten als bahnbrechend.
