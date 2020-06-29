@@ -13,3 +13,5 @@ Galileo Galilei war ein italienischer Universalgelehrter. Er war Philosoph, Math
 > und sie dreht sich doch.
 > Galileo Galilei
 
+<img src="https://upload.wikimedia.org/wikipedia/commons/b/b0/Galileo-sustermans.jpg"/> 
+
