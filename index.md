@@ -10,5 +10,6 @@ Galileo Galilei war ein italienischer Universalgelehrter. Er war Philosoph, Math
 * Fachbereich: Universalgelehrter
 * Entdeckungen: u.a. Kallisto, Europa, Ganymed, Io (Monde des Jupiter), Weiterentwicklung des Teleskops
 
->  … und sie dreht sich doch …!
+> und sie dreht sich doch.
+> Galileo Galilei
 
